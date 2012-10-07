@@ -2,6 +2,8 @@
 
 More information on the 'Google Nexus 7 Toolkit for OSX' will be released shortly. This repository will attempt to collect useful Mac OSX Tools [via Developers on XDA-Developers] for the Google Nexus 7 such as scripts for; Unlocking your device, Rooting your device, Working with your Bootloader and more.
 
+Until we publish the scripts and packages to this repository, feel free to take a look at the 'Mac Toolkit' Thread on [XDA-Developers](http://forum.xda-developers.com/showthread.php?t=1837401).
+
 Stay tuned..!
 
 ## License
